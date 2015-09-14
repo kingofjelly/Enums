@@ -1,0 +1,5 @@
+C:\Users\dmc\Desktop\LearningExercises\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\dmc\Desktop\LearningExercises\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\dmc\Desktop\LearningExercises\Enums\Enums\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmc\Desktop\LearningExercises\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\dmc\Desktop\LearningExercises\Enums\Enums\obj\Debug\Enums.pdb
